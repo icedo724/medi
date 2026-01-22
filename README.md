@@ -75,5 +75,5 @@ UDI 코드 이슈:
 
 ---
 
-## 노션링크
+## 노션
 https://www.notion.so/miniminimin/2e0fbcdaed2880f1a37fe87f58603c1a?source=copy_link
