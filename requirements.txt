@@ -1,0 +1,10 @@
+pandas
+numpy
+openpyxl
+xlsxwriter
+scipy
+matplotlib
+seaborn
+requests
+python-dotenv
+rapidfuzz
