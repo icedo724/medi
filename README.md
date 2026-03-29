@@ -20,4 +20,4 @@
 ---
 
 ## 리포트
-Notion([https://www.notion.so/miniminimin/2e0fbcdaed2880f1a37fe87f58603c1a?source=copy_link])
+[Notion](https://www.notion.so/miniminimin/2e0fbcdaed2880f1a37fe87f58603c1a?source=copy_link)
